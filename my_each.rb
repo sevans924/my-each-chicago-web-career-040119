@@ -6,7 +6,7 @@ if block_given?
       i += 1
     end
   else
-    puts "No block was given!"
+   "No block was given!"
   end
     # code here
 end
